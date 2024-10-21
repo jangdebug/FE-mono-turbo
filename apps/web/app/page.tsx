@@ -36,6 +36,8 @@ export default function Home() {
               height={20}
             />
             Deploy now
+            <br />
+            나의 웹 어플리케이션입니다.
           </a>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
